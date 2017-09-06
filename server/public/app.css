@@ -1,0 +1,13 @@
+/* app css stylesheet */
+
+html, body{
+  margin:0;
+  overflow:hidden;
+}
+#blueRect {
+  width: 100px;
+  height: 100px;
+  /*background-color:blue;*/
+  border-radius: 50%;
+  border: 1px solid #000000;
+}
